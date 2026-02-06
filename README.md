@@ -25,11 +25,6 @@ The chatbot uses keyword-based sentiment analysis to determine whether a message
 - ✅ Fully responsive design
 - ✅ No external API or dependencies required
 
-## 🚀 Demo
-
-![Chatbot Demo](demo-screenshot.png)
-
-*Type a message and instantly see its sentiment analysis!*
 
 ## 🛠️ Built With
 
