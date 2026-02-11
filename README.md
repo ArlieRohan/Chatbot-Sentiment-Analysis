@@ -58,12 +58,8 @@ Before running this project, make sure you have:
 
 4. **Start the development server**
    ```bash
-   npm start
+   npm run dev
    ```
-
-5. **Open your browser**
-   
-   The app will automatically open at `http://localhost:3000`
 
 ## 📁 Project Structure
 
