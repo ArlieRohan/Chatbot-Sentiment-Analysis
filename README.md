@@ -43,12 +43,12 @@ Before running this project, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/sentiment-chatbot.git
+   git clone https://github.com/ArlieRohan/Chatbot-Sentiment-Analysis
    ```
 
 2. **Navigate to project directory**
    ```bash
-   cd sentiment-chatbot
+   cd Chatbot-Sentiment-Analysis
    ```
 
 3. **Install dependencies**
